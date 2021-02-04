@@ -135,7 +135,7 @@ GEM
     rb-fsevent (0.9.8)
     rb-inotify (0.9.8)
       ffi (>= 0.5.0)
-    redis (3.3.3)
+    redis (4.2.5)
     responders (3.0.1)
       actionpack (>= 5.0)
       railties (>= 5.0)
