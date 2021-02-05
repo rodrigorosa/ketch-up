@@ -47,7 +47,7 @@ group :test do
 end
 
 group :development, :test do
-  gem 'rspec-rails', '~> 3.5'
+  gem 'rspec-rails', '~> 4.0'
   gem 'byebug', platform: :mri
 end
 
